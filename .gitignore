@@ -1,0 +1,9 @@
+db.sqlite3
+media
+synthetic
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+db.sqlite3
+.env
